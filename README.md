@@ -6,9 +6,8 @@ An automated bot for managing multiple Somnia with proxy support.
 
 # Telegram Channel: .[Channel](https://t.me/Offical_Im_kazuha)
 # GitHub Repository: [Somnia](https://github.com/Kazuha787/Somnia-Testnet-Bot.git)
-# If You Want To Run The Bot Make Sure You Mint This NFT First Then Its Run: [NFT](https://kazuha.testnet.nfts2.me/)
 
-Monad-BOT is a blockchain automation tool designed to interact with various cryptocurrency services for swapping and staking tokens. It provides a dashboard interface to monitor operations and logs, and it cycles through tasks like wrapping/unwrapping and staking/unstaking tokens.
+Somnia Testnet is a blockchain automation tool designed to interact with various cryptocurrency services for swapping and staking tokens. It provides a dashboard interface to monitor operations and logs, and it cycles through tasks like wrapping/unwrapping and staking/unstaking tokens.
 
 ## Features
 
