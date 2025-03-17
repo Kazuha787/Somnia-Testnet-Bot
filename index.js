@@ -1,1 +1,219 @@
-const _0x149161=_0x2463;(function(_0x9ee8f0,_0x403d33){const _0x264bdc=_0x2463,_0x288ae5=_0x9ee8f0();while(!![]){try{const _0x2021d3=parseInt(_0x264bdc(0xc3))/(0xc20*0x1+-0x12d6+-0x6b7*-0x1)+-parseInt(_0x264bdc(0x109))/(0x4cd*0x7+-0x1079*0x1+-0x1120)*(parseInt(_0x264bdc(0xc6))/(-0x5db*0x1+0x256c+-0x1f8e))+-parseInt(_0x264bdc(0x188))/(-0x1c65+0x14aa*-0x1+0x3113)*(parseInt(_0x264bdc(0xff))/(0x97*0x2+-0x1074+0xf4b))+parseInt(_0x264bdc(0x15a))/(-0x85a+0xdd*0x16+0x2*-0x54f)*(parseInt(_0x264bdc(0x186))/(0x1*-0x21d5+-0x5bd+-0x3*-0xd33))+parseInt(_0x264bdc(0xf7))/(-0x310+-0x1fa1*-0x1+0x5*-0x5b5)*(-parseInt(_0x264bdc(0xb3))/(0x183f+-0x210c+0x8d6))+parseInt(_0x264bdc(0xd1))/(-0x126f+-0x1*-0x805+0xa74)+-parseInt(_0x264bdc(0x18d))/(0x229*-0x5+0x1*-0x3e1+0xeb9);if(_0x2021d3===_0x403d33)break;else _0x288ae5['push'](_0x288ae5['shift']());}catch(_0x48d751){_0x288ae5['push'](_0x288ae5['shift']());}}}(_0x2aac,0x1*0x5c71+-0x1*-0x1ea59+-0x1*-0x113d));function _0x2aac(){const _0x2df021=['l\x20Faucet','textSync','2.\x20Check\x20T','otBKv','NrPzp','executeSwa','14jPcfvo','Transactio','4gxAGog','4.\x20Use\x20Spe','close','actions/So','int.js','4957568eMiFPt','ZcAWT','wap.js','icSSa','claimFauce','ear','bNufq','Official\x20F','uRBLO','ODBPG','Exiting...','427446KvYdPY','figlet','inherit','Made\x20Per\x20W','mqHmb','Script\x20cre','utils/bala','aucet...','checkWalle','hcqty','mtUML','GIQwm','2.\x20Automat','vKNhp','mVQAd','somniaSwap','244313uaAsMq','\x0aExiting..','ThwEw','14571VkeXhO','random','unt.js','lcEOa','Jermr','jIXLX','tbiGi','ns...','EWlcL','mpoQB','/Kazuha787','2530510cjUWEL','offical\x20\x20-','kXHum','rjbxq','cial_fauce','swapOption','Use\x20Specif','vkcKR','exit','MhLMk','1.\x20Officia','EUuKv','list','nceChecker','sJFVM','cet:','ucets/offi','oming\x20soon','JEElH','SfCBq','allet','WXBOs','ain\x20menu..','bOKeH','ssMLm','ic\x20App\x20-\x20c','R\x20to\x20retur','KAZUHA','urrent\x20Wal','3.\x20Deploy\x20','let\x20Balanc','\x20Github\x20-\x20','utils/txCo','SLIZN','mniaSwap/r','officialFa','claimToken','mniaSwap/s','8tluHOa','2.\x20Claim\x20T','CjJbM','1.\x20Claim\x20F','okens','Select\x20an\x20','pVOfE','VhSKX','156460fFjNVB','ZVrGq','\x20you\x20like\x20','tqdfC','walletChoi','GhfOT','uztsg','1.\x20SomniaS','node','UHulB','18OyGURY','zuha787','specificAp','ess','sMRPf','qYjRH','HWEbD','Balance\x20Ch','zFROn','BgUzW','JZBnv','ated\x20by\x20Ka','performSwa','Swap','balance','TFrQu','tRIxk','Deploy\x20Con','UOtgM','green','Select\x20Swa','1.\x20Check\x20C','2.\x20Execute','yCEBI','manual','Press\x20ENTE','log','Follow\x20me\x20','pVtSV','idNIe','tStuff','otal\x20Tx\x27s\x20','YOyDc','Claim\x20Toke','faucetChoi','aucet','5.\x20Check\x20W','tract\x20-\x20co','ic\x20Swaps','colors','EFxuV','smSHh','ZONAi','Swaps...','jBdqW','CuZNr','m\x20@kazuha_','to\x20do?','somniaChoi','SWqXY','tNPqG','lQFAV','cowQt','.js','Manual\x20Swa','wap','ZeDEX','cific\x20App','actions/fa','dqRHl','p...','cauGS','yIVOg','HHXwP','XdAAw','qaTKi','Automatic\x20','t/claim.js','bQnYt','n\x20to\x20the\x20m','deployCont','KYSoX','...','\x20Swaps','mMECL','option:','ucet','UvPGA','gqgWj','console-cl','1.\x20Perform','688290OMalRb','n\x20Counter.','OQRck','full','p\x20Method:','sqaGj','1.\x20Manual\x20','PCVtb','SIGINT','Contract','child_proc','Select\x20a\x20S','What\x20would','Launching\x20','ract','option','0.\x20Exit','Select\x20Fau','allet\x20Stuf','ecker...','andom.js','continue','prompt','input','dRCDO','on\x20Telegra','rlSRU','mScLz','wap\x20Method','mniaSwap/m','EFmDV','github.com','txCount','KfrHY','somniaActi','inquirer','ehKRq','ming\x20soon.'];_0x2aac=function(){return _0x2df021;};return _0x2aac();}const inquirer=require(_0x149161(0x17d)),figlet=require(_0x149161(0xb4)),{spawn}=require(_0x149161(0x164)+_0x149161(0x10c)),colors=require(_0x149161(0x130)),clear=require(_0x149161(0x158)+_0x149161(0xad));process['on'](_0x149161(0x162),()=>{const _0x51eedf=_0x149161,_0x1ca06f={'cauGS':_0x51eedf(0xc4)+'.'};console[_0x51eedf(0x123)](_0x1ca06f[_0x51eedf(0x146)][_0x51eedf(0x11c)]),process[_0x51eedf(0xd9)](-0xb87+-0xfed+0x1b74);});async function pause(){const _0x251e8b=_0x149161,_0x29f5d5={'ZONAi':_0x251e8b(0x171),'UHulB':_0x251e8b(0x16f),'vkcKR':_0x251e8b(0x122)+_0x251e8b(0xeb)+_0x251e8b(0x14e)+_0x251e8b(0xe7)+'.'};await inquirer[_0x251e8b(0x170)]([{'type':_0x29f5d5[_0x251e8b(0x133)],'name':_0x29f5d5[_0x251e8b(0x108)],'message':_0x29f5d5[_0x251e8b(0xd8)]}]);}function runScript(_0x57d434){const _0x2ab3ea=_0x149161,_0x5d6c68={'vKNhp':function(_0xfe931a){return _0xfe931a();},'Jermr':function(_0xd41a37,_0x6e3934,_0x278e89,_0x523927){return _0xd41a37(_0x6e3934,_0x278e89,_0x523927);},'bQnYt':_0x2ab3ea(0x107),'ZVrGq':_0x2ab3ea(0xb5),'ZcAWT':_0x2ab3ea(0x18a)};return new Promise(_0x7d2eb9=>{const _0x10e617=_0x2ab3ea,_0x1391e7={'sqaGj':function(_0x4d2433){const _0x4e6c92=_0x2463;return _0x5d6c68[_0x4e6c92(0xc0)](_0x4d2433);}},_0x39f9e4=_0x5d6c68[_0x10e617(0xca)](spawn,_0x5d6c68[_0x10e617(0x14d)],[_0x57d434],{'stdio':_0x5d6c68[_0x10e617(0x100)]});_0x39f9e4['on'](_0x5d6c68[_0x10e617(0x18e)],()=>{const _0x5c6ddb=_0x10e617;_0x1391e7[_0x5c6ddb(0x15f)](_0x7d2eb9);});});}async function mainMenu(){const _0x291dbd=_0x149161,_0x405c03={'bOKeH':function(_0x1e9722){return _0x1e9722();},'gqgWj':_0x291dbd(0xec),'KfrHY':_0x291dbd(0x15d),'rlSRU':_0x291dbd(0xb8)+_0x291dbd(0x114)+_0x291dbd(0x10a),'VhSKX':_0x291dbd(0x124)+_0x291dbd(0x173)+_0x291dbd(0x137)+_0x291dbd(0xd2)+_0x291dbd(0xf0)+_0x291dbd(0x179)+_0x291dbd(0xd0),'SLIZN':_0x291dbd(0xdd),'CjJbM':_0x291dbd(0x169),'HHXwP':_0x291dbd(0xfc)+_0x291dbd(0x154),'NrPzp':_0x291dbd(0xfa)+_0x291dbd(0x12c),'JEElH':_0x291dbd(0x191)+'t','TFrQu':_0x291dbd(0x11f)+_0x291dbd(0x152),'dRCDO':_0x291dbd(0x185)+'ps','ThwEw':_0x291dbd(0xee)+_0x291dbd(0x163),'yCEBI':_0x291dbd(0x14f)+_0x291dbd(0x168),'ehKRq':_0x291dbd(0x189)+_0x291dbd(0x142),'HWEbD':_0x291dbd(0x10b)+'p','mpoQB':_0x291dbd(0x12d)+_0x291dbd(0x16c)+'f','pVtSV':_0x291dbd(0xbb)+_0x291dbd(0x127),'smSHh':_0x291dbd(0x16a),'OQRck':_0x291dbd(0xd9),'cowQt':_0x291dbd(0x12b)+'ce','tNPqG':_0x291dbd(0x16b)+_0x291dbd(0xe0),'JZBnv':_0x291dbd(0xdb)+_0x291dbd(0x180),'sJFVM':_0x291dbd(0xf4)+_0x291dbd(0x155),'mVQAd':function(_0xb8a21b,_0x9a6471){return _0xb8a21b===_0x9a6471;},'ZeDEX':_0x291dbd(0x167)+_0x291dbd(0xaf)+_0x291dbd(0xba),'tbiGi':function(_0x51c1b6,_0x18920b){return _0x51c1b6(_0x18920b);},'EFxuV':_0x291dbd(0x143)+_0x291dbd(0xe1)+_0x291dbd(0xd5)+_0x291dbd(0x14c),'WXBOs':function(_0xcfe4d2){return _0xcfe4d2();},'UOtgM':_0x291dbd(0xd6),'SWqXY':_0x291dbd(0x165)+_0x291dbd(0x176)+':','EWlcL':_0x291dbd(0x106)+_0x291dbd(0x140),'uztsg':_0x291dbd(0xc2),'uRBLO':_0x291dbd(0x17c)+'on','mtUML':_0x291dbd(0x166)+_0x291dbd(0x101)+_0x291dbd(0x138),'GIQwm':_0x291dbd(0x159)+_0x291dbd(0x152),'tqdfC':_0x291dbd(0x115)+'ps','lQFAV':_0x291dbd(0xf8)+_0x291dbd(0xfb),'pVOfE':_0x291dbd(0xf5)+'s','sMRPf':function(_0x4a5fc4,_0x223518){return _0x4a5fc4===_0x223518;},'mMECL':_0x291dbd(0x139)+'ce','jBdqW':_0x291dbd(0x11d)+_0x291dbd(0x15e),'PCVtb':_0x291dbd(0x160)+_0x291dbd(0x116),'qaTKi':_0x291dbd(0x121),'KYSoX':_0x291dbd(0xbf)+_0x291dbd(0x12f),'ssMLm':_0x291dbd(0xc7),'mqHmb':_0x291dbd(0x167)+_0x291dbd(0x13f)+_0x291dbd(0x145),'dqRHl':_0x291dbd(0x18b)+_0x291dbd(0xf6)+_0x291dbd(0x18f),'yIVOg':function(_0x2c8916,_0xc67afd){return _0x2c8916===_0xc67afd;},'XdAAw':_0x291dbd(0x167)+_0x291dbd(0x14b)+_0x291dbd(0x134),'hcqty':function(_0x356e9b,_0x123674){return _0x356e9b(_0x123674);},'BgUzW':_0x291dbd(0x18b)+_0x291dbd(0xf3)+_0x291dbd(0x16e),'ODBPG':_0x291dbd(0x167)+_0x291dbd(0x12a)+_0x291dbd(0xcd),'MhLMk':function(_0x6f1d4,_0x25520d){return _0x6f1d4(_0x25520d);},'EFmDV':_0x291dbd(0x18b)+_0x291dbd(0x177)+_0x291dbd(0x18c),'SfCBq':function(_0x333287){return _0x333287();},'CuZNr':_0x291dbd(0x11a)+_0x291dbd(0x12e)+_0x291dbd(0x17f)+'..','rjbxq':_0x291dbd(0xd7)+_0x291dbd(0xea)+_0x291dbd(0xe2)+_0x291dbd(0x151),'lcEOa':_0x291dbd(0x103)+'ce','zFROn':_0x291dbd(0x11e)+_0x291dbd(0xed)+_0x291dbd(0xef)+'es','EUuKv':_0x291dbd(0x117),'bNufq':_0x291dbd(0x182)+_0x291dbd(0x128)+_0x291dbd(0xb6)+_0x291dbd(0xe5),'mScLz':_0x291dbd(0x17a),'UvPGA':function(_0x3a8fd3,_0x2a2310){return _0x3a8fd3===_0x2a2310;},'tRIxk':_0x291dbd(0x167)+_0x291dbd(0x110)+_0x291dbd(0x16d),'YOyDc':function(_0x33edf9,_0x3eafd7){return _0x33edf9(_0x3eafd7);},'kXHum':_0x291dbd(0xb9)+_0x291dbd(0xde)+_0x291dbd(0x13e),'qYjRH':function(_0x33c2ce,_0x24fc30){return _0x33c2ce===_0x24fc30;},'idNIe':_0x291dbd(0x167)+_0x291dbd(0x187)+_0x291dbd(0x15b)+'..','icSSa':function(_0x502625,_0x4394a8){return _0x502625(_0x4394a8);},'otBKv':_0x291dbd(0xf1)+_0x291dbd(0xc8),'GhfOT':_0x291dbd(0xb2),'jIXLX':function(_0x27c733){return _0x27c733();}};_0x405c03[_0x291dbd(0xe8)](clear);const _0x310fea=figlet[_0x291dbd(0x181)](_0x405c03[_0x291dbd(0x157)],{'horizontalLayout':_0x405c03[_0x291dbd(0x17b)]});console[_0x291dbd(0x123)](_0x310fea[_0x291dbd(0x11c)]),console[_0x291dbd(0x123)](_0x405c03[_0x291dbd(0x174)][_0x291dbd(0x11c)]),console[_0x291dbd(0x123)](_0x405c03[_0x291dbd(0xfe)][_0x291dbd(0x11c)]),console[_0x291dbd(0x123)]();const {option:_0x1b2856}=await inquirer[_0x291dbd(0x170)]([{'type':_0x405c03[_0x291dbd(0xf2)],'name':_0x405c03[_0x291dbd(0xf9)],'message':_0x405c03[_0x291dbd(0x148)],'choices':[{'name':_0x405c03[_0x291dbd(0x184)],'value':_0x405c03[_0x291dbd(0xe3)]},{'name':_0x405c03[_0x291dbd(0x118)],'value':_0x405c03[_0x291dbd(0x172)]},{'name':_0x405c03[_0x291dbd(0xc5)],'value':_0x405c03[_0x291dbd(0x120)]},{'name':_0x405c03[_0x291dbd(0x17e)],'value':_0x405c03[_0x291dbd(0x10f)]},{'name':_0x405c03[_0x291dbd(0xcf)],'value':_0x405c03[_0x291dbd(0x125)]},{'name':_0x405c03[_0x291dbd(0x132)],'value':_0x405c03[_0x291dbd(0x15c)]}]}]);switch(_0x1b2856){case _0x405c03[_0x291dbd(0xe3)]:const {faucetChoice:_0x278cbd}=await inquirer[_0x291dbd(0x170)]([{'type':_0x405c03[_0x291dbd(0xf2)],'name':_0x405c03[_0x291dbd(0x13d)],'message':_0x405c03[_0x291dbd(0x13b)],'choices':[{'name':_0x405c03[_0x291dbd(0x113)],'value':_0x405c03[_0x291dbd(0xdf)]}]}]);_0x405c03[_0x291dbd(0xc1)](_0x278cbd,_0x405c03[_0x291dbd(0xdf)])&&(console[_0x291dbd(0x123)](_0x405c03[_0x291dbd(0x141)][_0x291dbd(0x11c)]),await _0x405c03[_0x291dbd(0xcc)](runScript,_0x405c03[_0x291dbd(0x131)]));await _0x405c03[_0x291dbd(0xe6)](pause);break;case _0x405c03[_0x291dbd(0x172)]:const {swapOption:_0x173838}=await inquirer[_0x291dbd(0x170)]([{'type':_0x405c03[_0x291dbd(0xf2)],'name':_0x405c03[_0x291dbd(0x11b)],'message':_0x405c03[_0x291dbd(0x13a)],'choices':[{'name':_0x405c03[_0x291dbd(0xce)],'value':_0x405c03[_0x291dbd(0x105)]}]}]);if(_0x405c03[_0x291dbd(0xc1)](_0x173838,_0x405c03[_0x291dbd(0x105)])){const {somniaAction:_0x7713fb}=await inquirer[_0x291dbd(0x170)]([{'type':_0x405c03[_0x291dbd(0xf2)],'name':_0x405c03[_0x291dbd(0xb0)],'message':_0x405c03[_0x291dbd(0xbd)],'choices':[{'name':_0x405c03[_0x291dbd(0xbe)],'value':_0x405c03[_0x291dbd(0x102)]},{'name':_0x405c03[_0x291dbd(0x13c)],'value':_0x405c03[_0x291dbd(0xfd)]}]}]);if(_0x405c03[_0x291dbd(0x10d)](_0x7713fb,_0x405c03[_0x291dbd(0x102)])){const {somniaChoice:_0x368a7f}=await inquirer[_0x291dbd(0x170)]([{'type':_0x405c03[_0x291dbd(0xf2)],'name':_0x405c03[_0x291dbd(0x153)],'message':_0x405c03[_0x291dbd(0x135)],'choices':[{'name':_0x405c03[_0x291dbd(0x161)],'value':_0x405c03[_0x291dbd(0x14a)]},{'name':_0x405c03[_0x291dbd(0x150)],'value':_0x405c03[_0x291dbd(0xe9)]}]}]);if(_0x405c03[_0x291dbd(0x10d)](_0x368a7f,_0x405c03[_0x291dbd(0x14a)]))console[_0x291dbd(0x123)](_0x405c03[_0x291dbd(0xb7)][_0x291dbd(0x11c)]),await _0x405c03[_0x291dbd(0xcc)](runScript,_0x405c03[_0x291dbd(0x144)]);else _0x405c03[_0x291dbd(0x147)](_0x368a7f,_0x405c03[_0x291dbd(0xe9)])&&(console[_0x291dbd(0x123)](_0x405c03[_0x291dbd(0x149)][_0x291dbd(0x11c)]),await _0x405c03[_0x291dbd(0xbc)](runScript,_0x405c03[_0x291dbd(0x112)]));}else _0x405c03[_0x291dbd(0xc1)](_0x7713fb,_0x405c03[_0x291dbd(0xfd)])&&(console[_0x291dbd(0x123)](_0x405c03[_0x291dbd(0xb1)][_0x291dbd(0x11c)]),await _0x405c03[_0x291dbd(0xda)](runScript,_0x405c03[_0x291dbd(0x178)]));}await _0x405c03[_0x291dbd(0xe4)](pause);break;case _0x405c03[_0x291dbd(0x120)]:console[_0x291dbd(0x123)](_0x405c03[_0x291dbd(0x136)][_0x291dbd(0x11c)]),await _0x405c03[_0x291dbd(0xe6)](pause);break;case _0x405c03[_0x291dbd(0x10f)]:console[_0x291dbd(0x123)](_0x405c03[_0x291dbd(0xd4)][_0x291dbd(0x11c)]),await _0x405c03[_0x291dbd(0xe4)](pause);break;case _0x405c03[_0x291dbd(0x125)]:const {walletChoice:_0x344d8f}=await inquirer[_0x291dbd(0x170)]([{'type':_0x405c03[_0x291dbd(0xf2)],'name':_0x405c03[_0x291dbd(0xc9)],'message':_0x405c03[_0x291dbd(0x148)],'choices':[{'name':_0x405c03[_0x291dbd(0x111)],'value':_0x405c03[_0x291dbd(0xdc)]},{'name':_0x405c03[_0x291dbd(0xae)],'value':_0x405c03[_0x291dbd(0x175)]}]}]);if(_0x405c03[_0x291dbd(0x156)](_0x344d8f,_0x405c03[_0x291dbd(0xdc)]))console[_0x291dbd(0x123)](_0x405c03[_0x291dbd(0x119)][_0x291dbd(0x11c)]),await _0x405c03[_0x291dbd(0x129)](runScript,_0x405c03[_0x291dbd(0xd3)]);else _0x405c03[_0x291dbd(0x10e)](_0x344d8f,_0x405c03[_0x291dbd(0x175)])&&(console[_0x291dbd(0x123)](_0x405c03[_0x291dbd(0x126)][_0x291dbd(0x11c)]),await _0x405c03[_0x291dbd(0x190)](runScript,_0x405c03[_0x291dbd(0x183)]));await _0x405c03[_0x291dbd(0xe4)](pause);break;case _0x405c03[_0x291dbd(0x15c)]:console[_0x291dbd(0x123)](_0x405c03[_0x291dbd(0x104)][_0x291dbd(0x11c)]),process[_0x291dbd(0xd9)](0xbbf+-0x219a+0x15db);default:break;}_0x405c03[_0x291dbd(0xcb)](mainMenu);}function _0x2463(_0xfe57df,_0x31f3c4){const _0x345036=_0x2aac();return _0x2463=function(_0x299f89,_0x3d7142){_0x299f89=_0x299f89-(-0x1176+-0x1b88+-0x2dab*-0x1);let _0x4ec430=_0x345036[_0x299f89];return _0x4ec430;},_0x2463(_0xfe57df,_0x31f3c4);}mainMenu();
+const inquirer = require('inquirer');
+const figlet = require('figlet');
+const { spawn } = require('child_process');
+const colors = require('colors');
+const clear = require('console-clear');
+
+process.on('SIGINT', () => {
+  console.log('\nExiting...'.green);
+  process.exit(0);
+});
+
+async function pause() {
+  await inquirer.prompt([
+    {
+      type: 'input',
+      name: 'continue',
+      message: 'Press ENTER to return to the main menu...',
+    },
+  ]);
+}
+
+function runScript(scriptPath) {
+  return new Promise((resolve) => {
+    const child = spawn('node', [scriptPath], { stdio: 'inherit' });
+    child.on('close', () => {
+      resolve();
+    });
+  });
+}
+
+async function mainMenu() {
+  clear();
+  const title = figlet.textSync('SomniaTestnet', { horizontalLayout: 'full' });
+  console.log(title.green);
+  console.log('Script created by Naeaex'.green);
+  console.log('Follow me on X - x.com/naeaexeth - Github - github.com/Naeaerc20'.green);
+  console.log();
+
+  const { option } = await inquirer.prompt([
+    {
+      type: 'list',
+      name: 'option',
+      message: 'Select an option:',
+      choices: [
+        { name: '1. Claim Faucet', value: 'claimFaucet' },
+        { name: '2. Execute Swaps', value: 'executeSwaps' },
+        { name: '3. Deploy Contract', value: 'deployContract' },
+        { name: '4. Use Specific App', value: 'specificApp' },
+        { name: '5. Check Wallet Stuff', value: 'checkWalletStuff' },
+        { name: '6. Perform Specific Action', value: 'performSpecificAction' },
+        { name: '0. Exit', value: 'exit' }
+      ],
+    },
+  ]);
+
+  switch (option) {
+    case 'claimFaucet':
+      const { faucetChoice } = await inquirer.prompt([
+        {
+          type: 'list',
+          name: 'faucetChoice',
+          message: 'Select Faucet:',
+          choices: [
+            { name: '1. Official Faucet', value: 'officialFaucet' }
+          ],
+        },
+      ]);
+      if (faucetChoice === 'officialFaucet') {
+        console.log('Launching Official Faucet...'.green);
+        await runScript('actions/faucets/official_faucet/claim.js');
+      }
+      await pause();
+      break;
+
+    case 'executeSwaps':
+      const { swapOption } = await inquirer.prompt([
+        {
+          type: 'list',
+          name: 'swapOption',
+          message: 'Select a Swap Method:',
+          choices: [
+            { name: '1. SomniaSwap', value: 'somniaSwap' }
+          ],
+        },
+      ]);
+      if (swapOption === 'somniaSwap') {
+        const { somniaAction } = await inquirer.prompt([
+          {
+            type: 'list',
+            name: 'somniaAction',
+            message: 'What would you like to do?',
+            choices: [
+              { name: '1. Perform Swaps', value: 'performSwaps' },
+              { name: '2. Claim Tokens', value: 'claimTokens' }
+            ]
+          }
+        ]);
+        if (somniaAction === 'performSwaps') {
+          const { somniaChoice } = await inquirer.prompt([
+            {
+              type: 'list',
+              name: 'somniaChoice',
+              message: 'Select Swap Method:',
+              choices: [
+                { name: '1. Manual Swap', value: 'manual' },
+                { name: '2. Automatic Swaps', value: 'random' }
+              ]
+            }
+          ]);
+          if (somniaChoice === 'manual') {
+            console.log('Launching Manual Swap...'.green);
+            await runScript('actions/SomniaSwap/swap.js');
+          } else if (somniaChoice === 'random') {
+            console.log('Launching Automatic Swaps...'.green);
+            await runScript('actions/SomniaSwap/random.js');
+          }
+        } else if (somniaAction === 'claimTokens') {
+          console.log('Launching Claim Tokens...'.green);
+          await runScript('actions/SomniaSwap/mint.js');
+        }
+      }
+      await pause();
+      break;
+
+    case 'deployContract':
+      console.log('Deploy Contract - coming soon...'.green);
+      await pause();
+      break;
+
+    case 'specificApp':
+      console.log('Use Specific App - coming soon...'.green);
+      await pause();
+      break;
+
+    case 'checkWalletStuff':
+      const { walletChoice } = await inquirer.prompt([
+        {
+          type: 'list',
+          name: 'walletChoice',
+          message: 'Select an option:',
+          choices: [
+            { name: '1. Check Current Wallet Balances', value: 'balance' },
+            { name: '2. Check Total Tx\'s Made Per Wallet', value: 'txCount' }
+          ],
+        },
+      ]);
+      if (walletChoice === 'balance') {
+        console.log('Launching Balance Checker...'.green);
+        await runScript('utils/balanceChecker.js');
+      } else if (walletChoice === 'txCount') {
+        console.log('Launching Transaction Counter...'.green);
+        await runScript('utils/txCount.js');
+      }
+      await pause();
+      break;
+
+    case 'performSpecificAction':
+      // New option for the Trading Meme Contest
+      const { contestChoice } = await inquirer.prompt([
+        {
+          type: 'list',
+          name: 'contestChoice',
+          message: 'Participate in Trading Meme Contest:',
+          choices: [
+            { name: '1. Participate in Trading Meme Contest', value: 'tradingContest' }
+          ]
+        }
+      ]);
+      if (contestChoice === 'tradingContest') {
+        const { contestAction } = await inquirer.prompt([
+          {
+            type: 'list',
+            name: 'contestAction',
+            message: 'What would you like to do?',
+            choices: [
+              { name: '1. Perform Swaps', value: 'performSwaps' },
+              { name: '2. Mint Tokens', value: 'mintTokens' }
+            ]
+          }
+        ]);
+        if (contestAction === 'performSwaps') {
+          const { swapType } = await inquirer.prompt([
+            {
+              type: 'list',
+              name: 'swapType',
+              message: 'What types of swaps would you like to do?',
+              choices: [
+                { name: '1. Manual Swaps', value: 'manual' },
+                { name: '2. Automatic Swaps', value: 'random' }
+              ]
+            }
+          ]);
+          if (swapType === 'manual') {
+            console.log('Launching Manual Swap (Trading Meme Contest)...'.green);
+            await runScript('actions/memecoin_trading_contest/swap.js');
+          } else if (swapType === 'random') {
+            console.log('Launching Automatic Swaps (Trading Meme Contest)...'.green);
+            await runScript('actions/memecoin_trading_contest/random.js');
+          }
+        } else if (contestAction === 'mintTokens') {
+          console.log('Launching Mint Tokens (Trading Meme Contest)...'.green);
+          await runScript('actions/memecoin_trading_contest/mint.js');
+        }
+      }
+      await pause();
+      break;
+
+    case 'exit':
+      console.log('Exiting...'.green);
+      process.exit(0);
+
+    default:
+      break;
+  }
+
+  mainMenu();
+}
+
+mainMenu();
