@@ -1,4 +1,4 @@
-# Somnia-Testnet Bot Support of Multiple Wallets
+# Somnia-Testnet Bot Support of Multiple Wallets. 
 
 An automated bot for managing multiple Somnia with proxy support.
 
